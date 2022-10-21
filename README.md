@@ -8,7 +8,7 @@
 
 ### Here's how to connect with me:
 
-- [LinkedIn] https://www.linkedin.com/in/calebelwoodwhite/
+- [LinkedIn] (https://www.linkedin.com/in/calebelwoodwhite/)
 
 
 
