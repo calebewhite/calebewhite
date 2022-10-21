@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I'm Caleb
+
+### I use R, SQL, and Python for data analysis 
+
+### Here's a sample of what I've been up to:
+
+- [No Limit Hold'em Hand Analyzer] (https://github.com/calebewhite/NoLimitHoldem)
+
+### Here's how to connect with me:
+
+- [LinkedIn] https://www.linkedin.com/in/calebelwoodwhite/
+
+
 
 <!--
 **calebewhite/calebewhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
