@@ -5,6 +5,7 @@
 ### Here's a sample of what I've been up to:
 
 - [No Limit Hold'em Hand Analyzer] (https://github.com/calebewhite/NoLimitHoldem)
+- [Codecademy SQL Projects] (https://github.com/calebewhite/SQLProjects)
 
 ### Here's how to connect with me:
 
