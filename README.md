@@ -2,7 +2,7 @@
 
 ### I do data analysis using R, SQL, STATA, Excel and Python.
 
-### Here's a sample of what I've been up to:
+### Here's a sample of what I've done:
 
 - [No Limit Hold'em Hand Analyzer] (https://github.com/calebewhite/NoLimitHoldem)
 - [Codecademy SQL Projects] (https://github.com/calebewhite/SQLProjects)
