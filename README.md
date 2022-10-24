@@ -1,4 +1,4 @@
-### Hi, I'm Caleb
+### Hi, I'm Caleb.
 
 ### I do data analysis using R, SQL, STATA, Excel and Python.
 
