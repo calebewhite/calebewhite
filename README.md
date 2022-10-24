@@ -1,6 +1,6 @@
 ### Hi, I'm Caleb.
 
-### I do data analysis with R, SQL, STATA, Excel and Python.
+### I do data analysis with R, SQL, STATA, Python and Excel.
 
 ### Here's a sample of what I've done:
 
