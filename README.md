@@ -4,7 +4,7 @@
 
 ### Here's a sample of what I've done:
 
-- [No Limit Hold'em Hand Analyzer] (https://github.com/calebewhite/NoLimitHoldem)
+- [R No Limit Hold'em Hand Analyzer] (https://github.com/calebewhite/NoLimitHoldem)
 - [Codecademy SQL Projects] (https://github.com/calebewhite/SQLProjects)
 - [MISY225 Python Projects] (https://github.com/calebewhite/MISY225)
 - [STATA Projects] (https://github.com/calebewhite/STATA)
