@@ -6,7 +6,7 @@
 
 - [R No Limit Hold'em Hand Analyzer] (https://github.com/calebewhite/NoLimitHoldem)
 - [Codecademy SQL Projects] (https://github.com/calebewhite/SQLProjects)
-- [Python Projects] (https://github.com/calebewhite/MISY225)
+- [Python Projects] (https://github.com/calebewhite/PythonProjects)
 - [STATA Projects] (https://github.com/calebewhite/STATA)
 
 
