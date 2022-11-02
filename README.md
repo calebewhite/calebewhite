@@ -1,6 +1,6 @@
 ### Hi, I'm Caleb.
 
-### I use SQL, Python, R, STATA.
+### I use SQL, Python, R and STATA.
 
 ### Here's a sample of what I've done:
 
