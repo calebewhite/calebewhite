@@ -2,7 +2,7 @@
 
 ### I use SQL, Python, R and STATA.
 
-### Here's a sample of what I've done:
+### Take a look at what I've done:
 
 - [R No Limit Hold'em Hand Analyzer] (https://github.com/calebewhite/NoLimitHoldem)
 - [SQL Projects] (https://github.com/calebewhite/SQLProjects)
