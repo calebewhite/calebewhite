@@ -8,6 +8,7 @@
 - [SQL Projects] (https://github.com/calebewhite/SQLProjects)
 - [Python Projects] (https://github.com/calebewhite/PythonProjects)
 - [STATA Projects] (https://github.com/calebewhite/STATA)
+- [Tableau Projects] (https://github.com/calebewhite/Tableau)
 
 
 ### Here's how to connect with me:
