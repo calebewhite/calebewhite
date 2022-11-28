@@ -1,8 +1,8 @@
 ### Hi, I'm Caleb.
 
-### I use SQL, Python, R, STATA and Tableau.
+### I use SQL, Excel, Python, Tableau, R and STATA for Data Analysis.
 
-### Take a look at what I've done:
+### Check out these samples of my work:
 
 - [R No Limit Hold'em Hand Analyzer] (https://github.com/calebewhite/NoLimitHoldem)
 - [SQL Projects] (https://github.com/calebewhite/SQLProjects)
