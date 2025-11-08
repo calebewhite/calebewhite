@@ -1,33 +1,17 @@
-### Hi, I'm Caleb.
+# 👋 Hi, I'm Caleb White
 
-### I use SQL, Excel, Python, Tableau, R and STATA for Data Analysis.
+### Data Analyst | Marketing Analytics | Machine Learning | Tableau | SQL | Python
 
-### Check out these samples of my work:
+I help businesses turn marketing data into profit through analytics, dashboards and predictive modeling.
 
-- [R No Limit Hold'em Hand Analyzer] (https://github.com/calebewhite/NoLimitHoldem)
-- [SQL Projects] (https://github.com/calebewhite/SQLProjects)
-- [Python Projects] (https://github.com/calebewhite/PythonProjects)
-- [STATA Projects] (https://github.com/calebewhite/STATA)
-- [Tableau Projects] (https://github.com/calebewhite/Tableau)
+## 🔥 Featured Projects
 
+- [Predictive Lead Scoring](https://github.com/CalebWhite/marketing-lead-optimization) | Turned a -$607 loss into a +$191 profit using ML-based lead scoring. | Python, Scikit-learn, EDA |
+
+### 🧰 Tools I Use
+Python • SQL • Tableau • Excel • Snowflake • Scikit-learn • Pandas • Git
 
 ### Here's how to connect with me:
 
 - [LinkedIn] (https://www.linkedin.com/in/calebelwoodwhite/)
 
-
-
-<!--
-**calebewhite/calebewhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
