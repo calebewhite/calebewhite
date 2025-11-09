@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Caleb White
 
-### Data Analyst | Marketing Analytics | Machine Learning | Tableau | SQL | Python
+### Data Analyst | Marketing Analytics | Machine Learning
 
 I help businesses turn marketing data into profit through analytics, dashboards and predictive modeling.
 
@@ -9,7 +9,7 @@ I help businesses turn marketing data into profit through analytics, dashboards 
 - [Predictive Lead Scoring](https://github.com/calebewhite/marketing-lead-optimization) | Turned a -$607 loss into a +$191 profit using ML-based lead scoring. | Python, Scikit-learn, XGBoost |
 
 ### 🧰 Tools I Use
-Python • SQL • Tableau • Excel • Snowflake • Scikit-learn • Pandas • Git
+Python • SQL • Tableau • Excel • Snowflake
 
 ### Here's how to connect with me:
 
