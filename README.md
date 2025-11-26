@@ -2,7 +2,7 @@
 
 ### Data Analyst | Marketing Analytics | Machine Learning
 
-I help businesses turn marketing data into profit through analytics, dashboards and predictive modeling.
+I turn marketing data into growth through analytics, dashboards and predictive modeling.
 
 ## 🔥 Featured Projects
 
