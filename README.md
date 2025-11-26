@@ -12,7 +12,7 @@ I turn marketing data into growth through analytics, dashboards and predictive m
 ### 🧰 Tools I Use
 Python • SQL • Tableau • Excel • Snowflake
 
-### Here's how to connect with me:
+### Connect with me:
 
 - [LinkedIn] (https://www.linkedin.com/in/calebelwoodwhite/)
 
