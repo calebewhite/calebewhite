@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Caleb White
+# 👋 Caleb White
 
 ### Data Analyst | Marketing Analytics | Machine Learning
 
