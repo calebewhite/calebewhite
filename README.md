@@ -7,7 +7,7 @@ I turn marketing data into growth through analytics, dashboards and predictive m
 ## 🔥 Featured Projects
 
 - [Predictive Lead Scoring](https://github.com/calebewhite/marketing-lead-optimization) | Turned a -$607 loss into a +$191 profit using ML-based lead scoring. | Python, Scikit-learn, XGBoost |
-- [Data Cleaning & Segmentation](https://github.com/calebewhite/data-cleaning-segmentation) | Cleaned an online retail dataset and identified high-value customers for retargeting. | Python, Scikit-learn |
+- [Data Cleaning & Segmentation](https://github.com/calebewhite/data-cleaning-segmentation) | Cleaned online retail data and identified high-value customers for retargeting. | Python, Scikit-learn |
 
 ### 🧰 Tools I Use
 Python • SQL • Tableau • Excel • Snowflake
