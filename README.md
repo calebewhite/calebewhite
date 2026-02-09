@@ -1,15 +1,15 @@
-# 👋 Caleb White
+# Caleb White
 
 ### Data Analyst | Marketing Analytics | Machine Learning
 
 I turn marketing data into growth through analytics, dashboards and predictive modeling.
 
-## 🔥 Featured Projects
+## Featured Projects
 
 - [Predictive Lead Scoring](https://github.com/calebewhite/marketing-lead-optimization) | Turned a -$607 loss into a +$191 profit using ML-based lead scoring. | Python, Scikit-learn, XGBoost |
 - [Data Cleaning & Segmentation](https://github.com/calebewhite/data-cleaning-segmentation) | Cleaned retail data and identified high-value customers for retargeting. | Python, Scikit-learn |
 
-### 🧰 Tools I Use
+### Tools I Use
 Python • SQL • Tableau • Excel • Snowflake
 
 ### Connect with me:
